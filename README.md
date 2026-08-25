@@ -1,5 +1,9 @@
 <!-- ======================= HEADER ======================= -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Abin%20M.S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
 <!--horizontal divider-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
