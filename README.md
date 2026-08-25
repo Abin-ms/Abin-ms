@@ -17,13 +17,13 @@
 <!--subtitle-->
 
 <div align="center">
-  <h3>Java Developer | Computer Science Graduate | Problem Solver ☕</h3>
+  <h3>Java Developer | Computer Science Graduate | Problem Solver </h3>
 </div>
 
 <!-- ======================= SNAKE ======================= -->
 <!-- ======================= SNAKE ======================= -->
 
-<div align="center">
+<!-- <div align="center">
 
 <picture>
   <source
@@ -43,14 +43,14 @@
 
 </picture>
 
-</div>
+</div> -->
 
 <!-- ======================= QUOTE ======================= -->
 
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h2 style="display: inline-block">Learn. Build. Debug. Improve. 🚀</h2>
+      <h2 style="display: inline-block">Learn. Build. Debug. Improve. </h2>
     </summary>
   </ul>
 </div>
@@ -73,7 +73,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h2 style="display: inline-block">🚀 Projects</h2>
+      <h2 style="display: inline-block"> Projects</h2>
     </summary>
   </ul>
 </div>
@@ -115,15 +115,15 @@
 
 <!-- ======================= JAVA ======================= -->
 
-<div id="user-content-toc">
+<!-- <div id="user-content-toc">
   <ul align="center">
     <summary>
       <h2 style="display: inline-block">☕ Java Skills</h2>
     </summary>
   </ul>
-</div>
+</div> -->
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -132,14 +132,14 @@
 <img src="https://img.shields.io/badge/Streams-007396?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Generics-007396?style=for-the-badge&logo=java&logoColor=white"/>
 
-</p>
+</p> -->
 
 <!-- ======================= DATABASE ======================= -->
 
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h2 style="display: inline-block">🗄️ Database</h2>
+      <h2 style="display: inline-block"> Database</h2>
     </summary>
   </ul>
 </div>
@@ -159,7 +159,7 @@
 
 <!-- ======================= GITHUB STATS ======================= -->
 
-<div id="user-content-toc">
+<!-- <div id="user-content-toc">
   <ul align="center">
     <summary>
       <h2 style="display: inline-block">📊 GitHub Statistics</h2>
@@ -175,9 +175,32 @@
 <img width="49%"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abin-ms&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</p> -->
 
 <!-- ======================= STREAK ======================= -->
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Abin-ms/Abin-ms/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Abin-ms/Abin-ms/output/github-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/Abin-ms/Abin-ms/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+
+</picture>
+
+</div>
+
 
 <p align="center">
 
@@ -187,11 +210,11 @@
 
 <!-- ======================= GITHUB TROPHY ======================= -->
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Abin-ms&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 
-</div>
+</div> -->
 
 <!-- ======================= CURRENT GOALS ======================= -->
 ## 🎯 My Current Goals
@@ -264,7 +287,7 @@ REST API                ░░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-### 💡 "Learn → Build → Break → Debug → Improve → Repeat."
+###  "Learn → Build → Break → Debug → Improve → Repeat."
 
 </div>
 
