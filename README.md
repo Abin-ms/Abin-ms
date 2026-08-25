@@ -21,10 +21,9 @@
 </div>
 
 <!-- ======================= SNAKE ======================= -->
-
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Abin-ms/Abin-ms/output/github-contribution-grid-snake.svg"
+       alt="Snake animation" />
 </div>
 
 <!-- ======================= QUOTE ======================= -->
