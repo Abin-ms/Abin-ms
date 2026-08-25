@@ -208,15 +208,8 @@
 
 </p>
 
-<!-- ======================= GITHUB STATISTICS ======================= -->
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">📊 GitHub Statistics</h2>
-    </summary>
-  </ul>
-</div>
+<!-- ======================= GITHUB STATISTICS ======================= -->
 
 <!-- ======================= GITHUB STATISTICS ======================= -->
 
@@ -230,23 +223,29 @@
 
 <table align="center">
   <tr>
-    <td width="50%" align="center">
+    <td align="center">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abin-ms&theme=tokyonight"
         alt="GitHub Statistics"
-        width="100%"
       />
     </td>
-    <td width="50%" align="center">
+    <td align="center">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abin-ms&theme=tokyonight"
         alt="Top Languages"
-        width="100%"
       />
     </td>
   </tr>
 </table>
 
+<!-- ======================= GITHUB STATISTICS ======================= -->
+
+
+
+
+<!-- ======================= GITHUB ACTIVITY ======================= -->
+
+<!-- ======================= GITHUB ACTIVITY ======================= -->
 
 <!-- ======================= GITHUB ACTIVITY ======================= -->
 
@@ -263,7 +262,7 @@
 <p align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Abin-ms"
+  src="https://github-readme-activity-graph-seven-phi.vercel.app/graph?username=Abin-ms"
   alt="GitHub Activity Graph"
   width="95%"
 />
