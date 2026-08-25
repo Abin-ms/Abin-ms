@@ -61,7 +61,12 @@
 
 <!-- ======================= ABOUT ME ======================= -->
 
+
 ##  About Me
+
+<table  style=" border:none ">
+<tr>
+<td width="40%">
 
 *  Computer Science and Engineering graduate
 *  Focused on becoming a **Java Developer**
@@ -71,6 +76,13 @@
 *  Exploring **Web Development**
 *  I believe in learning concepts by actually building projects
 *  Currently developing and improving my Java project portfolio
+
+</td>
+<td width="40%">
+<img src="https://github.com/user-attachments/assets/d983890a-d2cd-43b8-b914-d2883be09251" width="100%"/>
+</td>
+</tr>
+</table>
 
 <!-- ======================= PROJECTS ======================= -->
 
