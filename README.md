@@ -208,6 +208,68 @@
 
 </p>
 
+<!-- ======================= GITHUB STATISTICS ======================= -->
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h2 style="display: inline-block">📊 GitHub Statistics</h2>
+    </summary>
+  </ul>
+</div>
+
+<!-- ======================= GITHUB STATISTICS ======================= -->
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h2 style="display: inline-block">📊 GitHub Statistics</h2>
+    </summary>
+  </ul>
+</div>
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abin-ms&theme=tokyonight"
+        alt="GitHub Statistics"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abin-ms&theme=tokyonight"
+        alt="Top Languages"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
+
+<!-- ======================= GITHUB ACTIVITY ======================= -->
+
+<!-- ======================= GITHUB ACTIVITY ======================= -->
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h2 style="display: inline-block">📈 GitHub Activity</h2>
+    </summary>
+  </ul>
+</div>
+
+<p align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Abin-ms"
+  alt="GitHub Activity Graph"
+  width="95%"
+/>
+
+</p>
+
 <!-- ======================= GITHUB TROPHY ======================= -->
 
 <!-- <div align="center">
