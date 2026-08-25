@@ -61,16 +61,16 @@
 
 <!-- ======================= ABOUT ME ======================= -->
 
-## 🧑‍💻 About Me
+##  About Me
 
-* 🎓 Computer Science and Engineering graduate
-* ☕ Focused on becoming a **Java Developer**
-* 💻 Currently building projects with **Java and OOP**
-* 🗄️ Working with **SQL and Database concepts**
-* 🧠 Practicing **Data Structures and Problem Solving**
-* 🌐 Exploring **Web Development**
-* 🚀 I believe in learning concepts by actually building projects
-* 🔧 Currently developing and improving my Java project portfolio
+*  Computer Science and Engineering graduate
+*  Focused on becoming a **Java Developer**
+*  Currently building projects with **Java and OOP**
+*  Working with **SQL and Database concepts**
+*  Practicing **Data Structures and Problem Solving**
+*  Exploring **Web Development**
+*  I believe in learning concepts by actually building projects
+*  Currently developing and improving my Java project portfolio
 
 <!-- ======================= PROJECTS ======================= -->
 
@@ -217,13 +217,13 @@
 
 <!-- ======================= GITHUB STATISTICS ======================= -->
 
-<div id="user-content-toc">
+<!-- <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h2 style="display: inline-block">📊 GitHub Statistics</h2>
+      <h2 style="display: inline-block"> GitHub Statistics</h2>
     </summary>
   </ul>
-</div>
+</div> -->
 
 <table align="center">
   <tr>
@@ -255,13 +255,13 @@
 
 <!-- ======================= GITHUB ACTIVITY ======================= -->
 
-<div id="user-content-toc">
+<!-- <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h2 style="display: inline-block">📈 GitHub Activity</h2>
+      <h2 style="display: inline-block"> GitHub Activity</h2>
     </summary>
   </ul>
-</div>
+</div> -->
 
 <p align="center">
 
@@ -282,7 +282,7 @@
 </div> -->
 
 <!-- ======================= CURRENT GOALS ======================= -->
-## 🎯 My Current Goals
+##  My Current Goals
 
 * [ ] Complete Java fundamentals
 * [ ] Master Collections Framework
