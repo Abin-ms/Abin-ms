@@ -10,7 +10,7 @@ I enjoy learning by building projects and continuously improving my problem-solv
 
 ## 🧑‍💻 About Me
 
-* 🎓 Computer Science graduate/student
+* 🎓 Computer Science graduate
 * ☕ Focused on **Java Development**
 * 🗄️ Working with **SQL & Database Development**
 * 🌐 Exploring **HTML, CSS & Frontend Development**
@@ -78,7 +78,7 @@ I enjoy learning by building projects and continuously improving my problem-solv
 ## 📊 Developer Journey
 
 ```text
-Java Fundamentals      ████████████████████ 100%
+Java Fundamentals       ████████████████████ 100%
 OOP                     ████████████████████ 100%
 Exception Handling      ████████████████████ 100%
 Collections             █████████████████░░░  85%
