@@ -109,7 +109,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,oracle,git,github,eclipse,vscode&perline=11" />
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,c,c++,git,github,eclipse,vscode&perline=11" />
   </a>
 </p>
 
