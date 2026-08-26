@@ -21,12 +21,10 @@
 <!--subtitle-->
 
 <div align="center">
-  <h3>Java Developer | Computer Science Graduate | Problem Solver </h3>
+  <h3>Java Developer | Computer Science Graduate | Self Learner | Problem Solver </h3>
 </div>
 
 <!-- ======================= SNAKE ======================= -->
-<!-- ======================= SNAKE ======================= -->
-
 <!-- <div align="center">
 
 <picture>
@@ -173,26 +171,6 @@
 
 </p>
 
-<!-- ======================= GITHUB STATS ======================= -->
-
-<!-- <div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">📊 GitHub Statistics</h2>
-    </summary>
-  </ul>
-</div>
-
-<p align="center">
-
-<img width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=Abin-ms&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abin-ms&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p> -->
-
 <!-- ======================= STREAK ======================= -->
 
 <div align="center">
@@ -224,9 +202,6 @@
 
 </p>
 
-
-<!-- ======================= GITHUB STATISTICS ======================= -->
-
 <!-- ======================= GITHUB STATISTICS ======================= -->
 
 <!-- <div id="user-content-toc">
@@ -253,17 +228,6 @@
     </td>
   </tr>
 </table>
-
-<!-- ======================= GITHUB STATISTICS ======================= -->
-
-
-
-
-<!-- ======================= GITHUB ACTIVITY ======================= -->
-
-<!-- ======================= GITHUB ACTIVITY ======================= -->
-
-<!-- ======================= GITHUB ACTIVITY ======================= -->
 
 <!-- ======================= GITHUB ACTIVITY ======================= -->
 
