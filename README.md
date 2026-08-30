@@ -242,7 +242,7 @@
 <p align="center">
 
 <img
-  src="https://github-readme-activity-graph-seven-phi.vercel.app/graph?username=Abin-ms"
+  src="https://github-readme-activity-graph-seven-phi.vercel.app/graph?username=Abin-ms&theme=chartreuse-dark"
   alt="GitHub Activity Graph"
   width="95%"
 />
