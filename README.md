@@ -127,26 +127,6 @@
   </a>
 </p>
 
-<!-- ======================= JAVA ======================= -->
-
-<!-- <div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">☕ Java Skills</h2>
-    </summary>
-  </ul>
-</div> -->
-
-<!-- <p align="center">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Collections-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Exception%20Handling-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streams-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generics-007396?style=for-the-badge&logo=java&logoColor=white"/>
-
-</p> -->
 
 <!-- ======================= DATABASE ======================= -->
 
@@ -204,14 +184,6 @@
 
 <!-- ======================= GITHUB STATISTICS ======================= -->
 
-<!-- <div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block"> GitHub Statistics</h2>
-    </summary>
-  </ul>
-</div> -->
-
 <table align="center">
   <tr>
     <td align="center">
@@ -230,15 +202,6 @@
 </table>
 
 <!-- ======================= GITHUB ACTIVITY ======================= -->
-
-<!-- <div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block"> GitHub Activity</h2>
-    </summary>
-  </ul>
-</div> -->
-
 <p align="center">
 
 <img
