@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Abin%20M.S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  
 </p>
 
 <!--horizontal divider-->
