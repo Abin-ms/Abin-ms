@@ -208,15 +208,17 @@
 
 <!-- ======================= GITHUB ACTIVITY GRAPH ======================= -->
 
+``
+<!-- ======================= GITHUB ACTIVITY ======================= -->
+
 <p align="center">
-  <a href="https://github.com/Abin-ms">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Abin-ms&theme=tokyo-night&hide_border=true&area=true"
-      alt="Abin's GitHub Activity Graph"
-      width="95%"
-    />
-  </a>
+  <img
+    src="https://github-readme-activity-graph-seven-phi.vercel.app/graph?username=Abin-ms&theme=tokyo-night&hide_border=true&area=true"
+    alt="Abin's GitHub Activity Graph"
+    width="95%"
+  />
 </p>
+``
 
 
 <!-- ======================= GITHUB TROPHY ======================= -->
