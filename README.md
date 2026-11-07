@@ -171,7 +171,9 @@
 
 </div>
 
-![Tulkun](https://raw.githubusercontent.com/actions-marketplace-validations/PramudithaN_git-tulkun/main/tulkun.png?username=Abin-ms)   
+<p align="center">
+  <img src="tulkun/tulkun.gif" width="640" alt="GitTulkun swimming" />
+</p>  
 
 
 <p align="center">
