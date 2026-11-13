@@ -18,28 +18,7 @@
   <h3>| Java Developer | Computer Science Graduate | Self Learner | Problem Solver |</h3>
 </div>
 
-<!-- ======================= SNAKE ======================= -->
-<!-- <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Abin-ms/Abin-ms/output/github-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Abin-ms/Abin-ms/output/github-snake.svg"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/Abin-ms/Abin-ms/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-
-</picture>
-
-</div> -->
 
 <!-- ======================= QUOTE ======================= -->
 
@@ -50,9 +29,6 @@
     </summary>
   </ul>
 </div>
-
-<!-- ======================= ABOUT ME ======================= -->
-
 
 ##  About Me
 
@@ -75,38 +51,6 @@
 </td>
 </tr>
 </table>
-
-
-<!-- ======================= PROJECTS ======================= -->
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block"> Projects</h2>
-    </summary>
-  </ul>
-</div>
-
-### Pj1
-
----
-
-### project - 2
-
-
-
-
----
-
-### project - 3
----
-
-### project - 4
-
----
-
-### project - 5
-
 <!-- ======================= TECHNOLOGIES ======================= -->
 
 <div id="user-content-toc">
@@ -201,13 +145,6 @@
   </tr>
 </table>
 
-<!-- ======================= GITHUB ACTIVITY ======================= -->
-
-<!-- ======================= GITHUB ACTIVITY GRAPH ======================= -->
-
-
-<!-- ======================= GITHUB ACTIVITY ======================= -->
-
 <p align="center">
   <img
     src="https://github-readme-activity-graph-seven-phi.vercel.app/graph?username=Abin-ms&theme=tokyo-night&hide_border=true&area=true"
@@ -215,16 +152,6 @@
     width="95%"
   />
 </p>
-
-
-
-<!-- ======================= GITHUB TROPHY ======================= -->
-
-<!-- <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abin-ms&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-
-</div> -->
 
 <!-- ======================= CURRENT GOALS ======================= -->
 ##  My Current Goals
