@@ -153,6 +153,14 @@
   />
 </p> -->
 
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Abin-ms&theme=tokyo-night&hide_border=true&area=true"
+    alt="Abin's GitHub Activity Graph"
+    width="95%"
+  />
+</p>
+
 <!-- ======================= CURRENT GOALS ======================= -->
 ##  My Current Goals
 
