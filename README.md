@@ -145,13 +145,15 @@
   </tr>
 </table>
 
-<!-- <p align="center">
-  <img
-    src="https://github-readme-activity-graph-seven-phi.vercel.app/graph?username=Abin-ms&theme=tokyo-night&hide_border=true&area=true"
-    alt="Abin's GitHub Activity Graph"
-    width="95%"
-  />
-</p> -->
+
+   <p align="center">
+     <img
+       src="https://github-readme-activity-graph-abin7.vercel.app/graph?username=Abin-ms&theme=tokyo-night&hide_border=true&area=true"
+       alt="Abin's GitHub Activity Graph"
+       width="95%"
+     />
+   </p>
+
 
 <p align="center">
   <img
