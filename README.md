@@ -12,15 +12,10 @@
   </ul>
 </div>
 
-<!--subtitle-->
 
 <div align="center">
   <h3>| Java Developer | Computer Science Graduate | Self Learner | Problem Solver |</h3>
 </div>
-
-
-
-<!-- ======================= QUOTE ======================= -->
 
 <div id="user-content-toc">
   <ul align="center">
