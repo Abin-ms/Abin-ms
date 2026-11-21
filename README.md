@@ -11,8 +11,6 @@
     </summary>
   </ul>
 </div>
-
-
 <div align="center">
   <h3>| Java Developer | Computer Science Graduate | Self Learner | Problem Solver |</h3>
 </div>
