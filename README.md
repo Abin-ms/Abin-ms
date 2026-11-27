@@ -25,7 +25,7 @@
 
 ##  About Me
 
-<table  style=" border:none ">
+<!-- <table  style=" border:none ">
 <tr>
 <td width="40%">
 
@@ -43,7 +43,7 @@
 <img src="https://github.com/user-attachments/assets/d983890a-d2cd-43b8-b914-d2883be09251" width="100%"/>
 </td>
 </tr>
-</table>
+</table> -->
 <!-- ======================= TECHNOLOGIES ======================= -->
 
 <div id="user-content-toc">
@@ -148,20 +148,7 @@
    </p>
 
 
-<!-- ======================= CURRENT GOALS ======================= -->
-##  My Current Goals
 
-* [ ] Complete Java fundamentals
-* [ ] Master Collections Framework
-* [ ] Strengthen Stream API
-* [ ] Learn JDBC
-* [ ] Learn Spring & Spring Boot
-* [ ] Build REST APIs
-* [ ] Build full-stack projects
-* [ ] Deploy projects online
-* [ ] Prepare for Java Developer interviews
-
----
 
 ## 📊 Developer Journey
 
