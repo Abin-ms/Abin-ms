@@ -12,7 +12,7 @@
   </ul>
 </div>
 <div align="center">
-  <h3>| Java Developer | Computer Science Graduate | Self Learner | Problem Solver |</h3>
+  <h3>| Software Developer | Computer Science Graduate | Self Learner | Problem Solver |</h3>
 </div>
 
 <div id="user-content-toc">
@@ -146,26 +146,6 @@
        width="95%"
      />
    </p>
-
-
-
-
-## 📊 Developer Journey
-
-```text
-Java Fundamentals       ████████████████████ 100%
-OOP                     ████████████████████ 100%
-Exception Handling      ████████████████████ 100%
-Collections             █████████████████░░░  85%
-Stream API              ████████████░░░░░░░░  60%
-SQL                     ███████████████░░░░░  75%
-Frontend                ████████░░░░░░░░░░░░  40%
-Spring                  ░░░░░░░░░░░░░░░░░░░░   0%
-Spring Boot             ░░░░░░░░░░░░░░░░░░░░   0%
-REST API                ░░░░░░░░░░░░░░░░░░░░   0%
-```
-
-
 <!-- ======================= CONNECT ======================= -->
 
 <div id="user-content-toc">
